@@ -1,0 +1,7 @@
+{
+  "version": "0.1.9",
+  "details": "AI-помощник с памятью диалога. Запоминает 100 сообщений. Быстрые ответы.",
+  "is_blocked": false,
+  "block_reason": "",
+  "multi_model": true
+}
